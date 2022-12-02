@@ -1,5 +1,5 @@
 
-**Steps**
+**Run Google Colab**
 1)	Open google colab notebook 
 2)	Select the runtime as GPU
 
