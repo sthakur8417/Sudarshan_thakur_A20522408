@@ -1,6 +1,5 @@
 
 
-``
 1)	Open google colab notebook 
 2)	Select the runtime as GPU
 3)	!git clone https://github.com/sthakur8417/Sudarshan_thakur_A20522408.git
@@ -9,4 +8,4 @@
 6)	cd ../../../../
 7)  !python src/train.py
 
-https://iReference - **eeexplore.ieee.org/abstract/document/9492104**
+Reference - **eeexplore.ieee.org/abstract/document/9492104**
